@@ -2,9 +2,9 @@
  
 # Exploit Title: HP-Data-Protector-8.10 Remote command execution.
 # Date: July 11 2014
-# Exploit Author: Christian (Polunchis) Ramirez https://intrusionlabs.org
-# Exploit Author: Henoch (Chanoc) Barrera       https://intrusionlabs.org
-# Contacts: polunchis@intrusionlabs.org and chanoc@intrusionlabs.org
+# Exploit Author: Christian (Polunchis) Ramirez https://intlabs.ca
+# Exploit Author: Henoch (Chan0c) Barrera       https://intlabs.ca
+# Contacts: polunchis@intlabs.ca and chanoc@intlabs.ca
 # Version: HP Data Protector manager 8.10 the last version
 # Vendor web page: http://www8.hp.com/mx/es/software-solutions/software.html?compURI=1175640#.U8DhWaU_BjF
 # Tested on: Windows 2003, Windows 2008 and Windows 2012 all languages 
